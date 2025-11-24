@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://fridayroll-online.com/
+Sitemap: https://fridayroll-online.com/sitemap.xml

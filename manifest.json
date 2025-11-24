@@ -1,0 +1,19 @@
+{
+  "name": "FridayRoll",
+  "short_name": "FridayRoll",
+  "theme_color": "",
+  "background_color": "#1B1F2D",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1763977579-favicon-cdnwlfridaystaticcom.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
